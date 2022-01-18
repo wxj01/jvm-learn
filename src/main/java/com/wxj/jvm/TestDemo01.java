@@ -8,7 +8,7 @@ import java.io.File;
  * @description: TODO
  * @date 2022/1/12 0012 16:36
  */
-public class testDemo01 {
+public class TestDemo01 {
     public static void main(String[] args) {
 
     }
