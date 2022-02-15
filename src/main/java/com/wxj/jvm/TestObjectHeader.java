@@ -381,7 +381,7 @@ public class TestObjectHeader {
 
     /**
      * @description: TODO
-     * 这段理解有问题
+     *  数组中 基本类型 和 对象的引用（这个占 4 个字节）
      * 这是 对 new String[3] 占用空间 为32,其中 数组长度3 个 String类对象 占 3*24 = 72 ，
      * 故 String[] arr = new String[3]; 一共占用 32 + 72 = 104 bytes
      *
